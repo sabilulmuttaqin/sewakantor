@@ -64,7 +64,7 @@ Akses panel admin:
 http://localhost:8000/admin
 ```
 
-**Akun Default Admin (Jika Ada)**  
+**Akun Default Admin**  
 ```
 Email: admin@admin.com  
 Password: 11111111
