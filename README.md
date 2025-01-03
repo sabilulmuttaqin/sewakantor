@@ -2,7 +2,7 @@
 
 ### 1. **Clone Repository**  
 ```bash
-git clone <url-repo-github>
+git clone <https://github.com/sabilulmuttaqin/sewakantor.git>
 cd backend
 ```
 
@@ -34,8 +34,12 @@ php artisan key:generate
 
 ### 5. **Impor Database**  
 Import database dengan file yang sudah di sediakan
-```bash
+
 Buka phpMyAdmin, masuk ke menu export dan pilih sewakantor.sql
+
+Atau jika menggunakan command line
+```bash
+mysql -u root -p sewakantor < sewakantor.sql
 ```
 
 ### 6. **Buat Symbolic Link untuk Storage**  
