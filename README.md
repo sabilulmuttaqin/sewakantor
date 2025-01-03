@@ -34,7 +34,6 @@ php artisan key:generate
 
 ### 5. **Impor Database**  
 Import database dengan file yang sudah di sediakan
-
 #### Buka phpMyAdmin, masuk ke menu export dan pilih sewakantor.sql
 
 Atau jika menggunakan command line
