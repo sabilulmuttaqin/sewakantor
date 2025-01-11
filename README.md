@@ -1,8 +1,8 @@
-## 🛠️ **Instalasi Proyek**  
+## 🛠️ **Instalasi Proyek Backend**  
 
 ### 1. **Clone Repository**  
 ```bash
-git clone <https://github.com/sabilulmuttaqin/sewakantor.git>
+git clone --branch==backend https://github.com/sabilulmuttaqin/sewakantor.git
 cd backend
 ```
 
