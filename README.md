@@ -71,7 +71,7 @@ npm install
 ```
 ### 3. **Run server**  
 ```bash
-npm install
+npm run dev
 ```
 
 ---
