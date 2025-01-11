@@ -58,7 +58,7 @@ http://localhost:8000
 
 ---
 
-## 🛠️ **Instalasi Proyek FrontEnd**  
+## 🛠️ **Instalasi Proyek Frontend**  
 
 ### 1. **Clone Repository**  
 ```bash
